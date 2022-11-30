@@ -27,9 +27,9 @@ git clear
 ls 
 git add -A : para añadir al comit a todos los que hayan sufrido un cambio
 git add . === git add -A
-
-
-
+git checkout -b "nombre de la rama": Es para cambiar a otra rama y/o crearla
+git branch -a: Para ver todas las ramas
+git checkout " ": cambiar de rama
 
 github
 Plataforma
