@@ -30,6 +30,21 @@ git add . === git add -A
 git checkout -b "nombre de la rama": Es para cambiar a otra rama y/o crearla
 git branch -a: Para ver todas las ramas
 git checkout " ": cambiar de rama
+git log:
+git reset --soft
+git reste --mixed
+git reset --hard
+
+git remote add orign urlRepositorioRemoto: 
+git push -u origin main
+git push
+git fetch
+
+git stash
+
+
+
+
 
 github
 Plataforma
